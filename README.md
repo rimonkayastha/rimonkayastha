@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Rimon 👋
 
 <!--
 **rimonkayastha/rimonkayastha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👨‍🎓High School Graduate exploring the ever-expanding unknowns of tech</br>
+💭Currently learning Web Development and Machine Learning</br>
+🎨Creating (Trying) passion projects and fun/interesting applications</br>
+🧑‍💻Web Dev Intern at Calcgen Solutions</br>
+
 [![Rimon's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimonkayastha&theme=merko&show_icons=true)](https://github.com/rimonkayastha/github-readme-stats)
