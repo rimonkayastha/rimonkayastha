@@ -18,7 +18,4 @@ Here are some ideas to get you started:
 💭Currently learning Web Development and Machine Learning</br>
 🎨Creating (Trying) passion projects and fun/interesting applications</br>
 🧑‍💻Web Dev Intern at Calcgen Solutions</br>
-</br>
-
-📈Check out my stats📈</br>
 [![Rimon's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimonkayastha&theme=merko&show_icons=true)](https://github.com/rimonkayastha/github-readme-stats)
