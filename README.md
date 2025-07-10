@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 🧑‍💻Web Dev Intern at Calcgen Solutions</br>
 </br>
 
-📈Check out my stats📈
+📈Check out my stats📈</br>
 [![Rimon's GitHub stats](https://github-readme-stats.vercel.app/api?username=rimonkayastha&theme=merko&show_icons=true)](https://github.com/rimonkayastha/github-readme-stats)
